@@ -291,7 +291,7 @@ border-radius: 10px;
   font-size: 14px;
 }
 
-@media(min-width:490px) and (max-width:600px){
+@media(min-width:200px) and (max-width:600px){
   
 
 
@@ -358,5 +358,6 @@ border-radius: 10px;
   max-width: 517px;
   box-sizing: border-box;
 }
+
 
 }
